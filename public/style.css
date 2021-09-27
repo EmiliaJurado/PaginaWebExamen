@@ -1,0 +1,16 @@
+.body{
+    background-image: url("../img/body.jpg");
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+}
+.v-center{
+    display: flex;
+    align-items: center;
+}
+ul{
+    font-size: 1.3rem;
+}
